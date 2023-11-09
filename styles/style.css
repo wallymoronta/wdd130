@@ -1,0 +1,23 @@
+nav{
+    background-color: steelblue;
+    padding: 10px;
+}
+nav a{
+  color: aliceblue;
+  display: block;
+  padding: 5px;
+}
+h1{
+    color: steelblue;
+}
+
+img{
+    height: auto;
+    border: 1px solid steelblue;
+    padding: 1.5px;
+    box-shadow: 0 0 30px steelblue;
+}
+
+p{
+  padding: 10px;
+}
